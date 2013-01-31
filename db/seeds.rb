@@ -16,6 +16,11 @@ movies = [{:title => 'Aladdin', :rating => 'G', :release_date => '25-Nov-1992'},
       	  {:title => 'The Incredibles', :rating => 'PG', :release_date => '5-Nov-2004'},
       	  {:title => 'Raiders of the Lost Ark', :rating => 'PG', :release_date => '12-Jun-1981'},
       	  {:title => 'Chicken Run', :rating => 'G', :release_date => '21-Jun-2000'},
+      	  {:title => 'The Shawshank Redemption', :rating => 'R', :release_date => '14-Oct-1994'},
+      	  {:title => 'The Godfather', :rating => 'R', :release_date => '24-Mar-1974'},
+      	  {:title => 'The Godfather: Part II', :rating => 'R', :release_date => '20-Dec-1974'},
+      	  {:title => 'Pulp Fiction', :rating => 'R', :release_date => '14-Oct-1994'},
+      	     
   	 ]
 
 movies.each do |movie|
